@@ -30,6 +30,6 @@ class GraffitiController < ApplicationController
         render :json => wards
     end
     def welcome
-        render :json => "Welcome! Please format your requests as /graffiti/:alderman(/:date)(/:endDate)"
+        render :json => "Welcome! Please format your requests as /graffiti/:alderman/:date/:endDate"
     end
 end
