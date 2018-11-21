@@ -3,9 +3,12 @@
 EndPoint
 https://chicago-graffiti.herokuapp.com/graffiti/
 
-Parameters
+# Parameters
+
 Alderman Name
+
 Start Date
+
 End Date
 
 Format Requests Like:
