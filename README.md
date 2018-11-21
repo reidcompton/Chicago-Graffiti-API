@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+EndPoint
+https://chicago-graffiti.herokuapp.com/graffiti/
 
-Things you may want to cover:
+Parameters
+Alderman Name
+Start Date
+End Date
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Format Requests Like:
+https://chicago-graffiti.herokuapp.com/graffiti/Ramirez/2018-10-01/2018-10-31
