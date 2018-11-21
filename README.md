@@ -2,8 +2,7 @@
 
 EndPoint
 
-https://chicago-graffiti.herokuapp.com/graffiti/
-
+https://chicago-graffiti.herokuapp.com/
 # Parameters
 
 Alderman Name
