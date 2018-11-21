@@ -1,3 +1,3 @@
 class Graffiti
-    attr_accessor :alderman, :ward, :date, :end_date, :graffiti_instances
+    attr_accessor :alderman, :lat, :long, :ward, :date, :end_date, :graffiti_instances
 end

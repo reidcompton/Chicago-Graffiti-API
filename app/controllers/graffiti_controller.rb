@@ -18,6 +18,8 @@ class GraffitiController < ApplicationController
             ward.ward = alderman["ward"]
             ward.date = date
             ward.end_date = end_date
+            ward.long = alderman["location"]["coordinates"][0]
+            ward.lat = alderman["location"]["coordinates"][1]
             wards.push(ward)
         end
         #iterate over wards, get all graffiti
