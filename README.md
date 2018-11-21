@@ -18,6 +18,7 @@ https://chicago-graffiti.herokuapp.com/graffiti/Ramirez/2018-10-01/2018-10-31
 
 # Sample PowerShell
 
+ Invoke-RestMethod -Uri https://chicago-graffiti.herokuapp.com/
  Invoke-RestMethod -Uri https://chicago-graffiti.herokuapp.com/graffiti/Ramirez/2018-10-01/2018-10-31
 
 # Sample Response
